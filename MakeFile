@@ -1,0 +1,4 @@
+rt=root
+
+UseKalmanFilter: UseKalmanFilter.cpp
+		$(rt) -l UseKalmanFilter.cpp
